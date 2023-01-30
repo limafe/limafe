@@ -19,6 +19,4 @@
 
  ###
 
-<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/limafe/count.svg" /></p>
-
 ![snake gif](https://github.com/limafe/limafe/blob/output/github-contribution-grid-snake.svg)
